@@ -1,0 +1,21 @@
+import cv2
+from ultralytics import YOLO
+
+# Загрузка модели
+model = YOLO(r"C:\Users\ASTRA\Desktop\Diplom\Programma\YOLO\best.pt")
+
+path_img = r"C:\Users\ASTRA\Desktop\Diplom\v2\10.jpg"
+# Обучение модели на новом датасете
+result = model(path_img, save=True, show=True)
+for r in result:
+    # Настройка параметров визуализации
+    annotated_frame = r.plot(
+        line_width=1,        # Толщина рамки
+        font_size=8,         # Размер шрифта
+        font='Arial.ttf',    # Шрифт
+        labels=True,         # Показывать подписи
+        conf=True            # Показывать confidence score
+    )
+    
+    # Сохранение аннотированного изображения с использованием OpenCV
+    cv2.imwrite (r"C:\Users\ASTRA\Desktop\Diplom\v2\Самолёты готовые3.jpg", annotated_frame)
