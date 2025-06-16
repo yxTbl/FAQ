@@ -1,9 +1,8 @@
-   Разраб:
+   Разработчики:
+- iCCup.yxTbl (engine)
+- Whining (libraries)
+- 4erkash (corrections and editing)
 
-yxTbl:https://iccup.com/dota/gamingprofile/iCCup.yxTbl
-by:https://iccup.com/dota/gamingprofile/by
-
-   Благо:
-
-yxTbl:https://iccup.com/dota/gamingprofile/iCCup.yxTbl
-by:https://iccup.com/dota/gamingprofile/by
+   Благодарности:
+- TBo9_CMepTb (публичное тестирование)
+- Tech Supp Staff (сбор и анализ статистики)
