@@ -16,7 +16,6 @@
   ],
   "credits": [
     {
-      "text": "Благодарность сообществу",
       "name": "TBo9_CMepTb (публичное тестирование)",
       "url": "https://www.youtube.com/@tbo9cmeptbdota1"
     },
