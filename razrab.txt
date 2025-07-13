@@ -2,18 +2,27 @@
   "title": "Разработчики и благодарности",
   "developers": [
     {
-      "name": "yxTbl",
-      "url": "https://github.com/yxTbl"
+      "name": "yxTbl (engine)",
+      "url": "https://iccup.com/profile/view/by.html"
     },
     {
-      "name": "Другой Разработчик",
-      "url": "https://example.com/dev2"
+      "name": "Whining (libraries)",
+      "url": "https://iccup.com/"
+    },
+ {
+      "name": "4erkash (corrections and editing)",
+      "url": "https://iccup.com/"
     }
   ],
   "credits": [
     {
       "text": "Благодарность сообществу",
-      "url": "https://iccup.com"
+      "name": "TBo9_CMepTb (публичное тестирование)",
+      "url": "https://www.youtube.com/@tbo9cmeptbdota1"
+    },
+ {
+      "name": "Tech Supp Staff (сбор и анализ статистики) - iCCup.Drug, iCCup.Sanya",
+      "url": "https://iccup.com/dota/dota_staff.html"
     }
   ]
 }
