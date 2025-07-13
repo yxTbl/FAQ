@@ -4,7 +4,7 @@
 
 | Роль                     | Имя               | Ссылка                          |
 |--------------------------|-------------------|---------------------------------|
-| Главный разработчик       | yxTbl (engine)    | [Профиль](https://iccup.com/profile/view/by.html) |
+| <span style="color: #4CAF50; font-weight: bold;">Главный разработчик</span>       | yxTbl (engine)    | [Профиль](https://iccup.com/profile/view/by.html) |
 | Библиотеки и интеграции   | Whining           | [iCCup](https://iccup.com/)     |
 | Исправления и редактура   | 4erkash           | [iCCup](https://iccup.com/)     |
 
@@ -26,3 +26,5 @@
 📅 **Последнее обновление:** 2025-03-21  
 🏆 **Проект:** iCCup Repair Tool  
 🌐 **Сообщество:** [iCCup.com](https://iccup.com)
+
+<span style="color: #4CAF50; font-weight: bold;">test</span>
