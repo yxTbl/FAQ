@@ -1,11 +1,19 @@
-Имя Разработчика 1\n", "link", "https://example.com/dev1
-Разработчики:
-Имя Разработчика 1\n", "link", "https://example.com/dev1
-- iCCup.yxTbl (engine)
-- Whining (libraries)
-- 4erkash (corrections and editing)
-
-   Благодарности:
-Имя Разработчика 1\n", "link", "https://example.com/dev1
-- TBo9_CMepTb (публичное тестирование)
-- Tech Supp Staff (сбор и анализ статистики)
+{
+  "title": "Разработчики и благодарности",
+  "developers": [
+    {
+      "name": "yxTbl",
+      "url": "https://github.com/yxTbl"
+    },
+    {
+      "name": "Другой Разработчик",
+      "url": "https://example.com/dev2"
+    }
+  ],
+  "credits": [
+    {
+      "text": "Благодарность сообществу",
+      "url": "https://iccup.com"
+    }
+  ]
+}
