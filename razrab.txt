@@ -17,7 +17,7 @@
 
 ## 🎨 Стилизация
 
-<span style="color: #4CAF50; font-weight: bold;">Зеленый</span> - основной разработчик  
+<span style="color: #f01818; font-weight: bold;">Зеленый</span> - основной разработчик  
 <span style="color: #2196F3; font-weight: bold;">Синий</span> - вспомогательные разработчики  
 <span style="color: #9C27B0; font-weight: bold;">Фиолетовый</span> - благодарности  
 
@@ -26,5 +26,3 @@
 📅 **Последнее обновление:** 2025-03-21  
 🏆 **Проект:** iCCup Repair Tool  
 🌐 **Сообщество:** [iCCup.com](https://iccup.com)
-
-<span style="color: #4CAF50; font-weight: bold;">test</span>
