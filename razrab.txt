@@ -4,7 +4,7 @@
 
 | Роль                      | Имя               | Ссылка                          |
 |---------------------------|-------------------|---------------------------------|
-| Главный разработчик       | yxTbl (engine)    | [Профиль](https://iccup.com/profile/view/by.html) |
+| Главный разработчик       | yxTbl (engine)    | [Профиль](https://iccup.com/profile/view/by.html) [Profile](https://iccup.com/dota/gamingprofile/test) |
 | Библиотеки и интеграции   | Whining           | [GitHub](https://github.com/whining)     |
 | Исправления               | 4erkash           | [Error 404](https://anonimus.ru/)     |
 
