@@ -13,7 +13,7 @@
 | Вклад                                | Участники                                                                 | Ссылка |
 |--------------------------------------|---------------------------------------------------------------------------|--------|
 | Помощь в публичном тестировании               | TBo9_CMepTb                                                              | [YouTube](https://www.youtube.com/@tbo9cmeptbdota1) |
-| Сбор и анализ статистики             | iCCup.Drug, iCCup.Sanya (Tech Supp Staff)                                | [DotA Admin List](https://iccup.com/dota/dota_staff.html) |
+| Сбор и анализ статистики             | iCCup.Drug, iCCup.Sanya (Tech Supp Staff)                                | [SA Tech Supp iCCup.Drug](https://iccup.com/dota/dota_staff.html) [SAA Tech Supp iCCup.Sanya](https://iccup.com/dota/gamingprofile/by) |
 
 ////////////////////
 Прошу прощения у ребят, которых не внёс в список благодарностей за оказание помощи в тестировании программы iCCup Repair Tool.
